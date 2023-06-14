@@ -1,0 +1,23 @@
+.hero-para-text
+{
+    font-weight: 600;
+    font-size: 20px;
+}
+.my-btn
+{
+    color: rgb(239, 125, 197) !important;
+    background-color: rgb(117, 4, 39) !important;
+    border-color: rgb(232, 122, 210) !important;
+}
+.my-btn:hover
+{
+background-color: rgb(8, 100, 34);
+color: rgb(124, 153, 8);
+}
+.card-img
+{
+    width: 200px;
+    height: 200px;
+    padding: 5%;
+
+}
